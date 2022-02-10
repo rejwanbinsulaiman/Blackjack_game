@@ -1,2 +1,2 @@
 # Blackjack_game
- Play backJack
+ use https://replit.com/ to run for quick illustration
